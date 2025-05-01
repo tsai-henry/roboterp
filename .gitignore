@@ -2,6 +2,7 @@ wandb/
 checkpoints/
 *.gif
 *.pth
+*.pt
 checkpoints/
 
 # Byte-compiled / optimized / DLL files
