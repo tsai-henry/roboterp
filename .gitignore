@@ -1,6 +1,8 @@
 wandb/
 checkpoints/
 *.gif
+*.pth
+checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
