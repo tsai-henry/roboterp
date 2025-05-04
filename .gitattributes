@@ -1,1 +1,2 @@
 /home/henrytsai/dhruv/roboterp/checkpoint_0005.msgpack filter=lfs diff=lfs merge=lfs -text
+*.msgpack filter=lfs diff=lfs merge=lfs -text
