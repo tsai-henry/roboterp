@@ -180,3 +180,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Miscellaneous
+big_vision_repo/
