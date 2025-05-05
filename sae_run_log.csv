@@ -1,0 +1,5 @@
+run_name,timestamp,hidden_multiplier,learning_rate,sparsity_weight,n_epochs,batch_size,d_in,d_hidden,final_loss,model_path
+SAE_new_notebook_test,2025-05-05_01-03-05,8,0.0001,0.01,10,32,2048,16384,0.03944502800703049,checkpoints/sae_2025-05-05_01-03-05.pth
+SAE_new_notebook_test,2025-05-05_01-57-46,8,0.0001,0.01,10,32,2048,16384,0.03950553640723228,checkpoints/sae_2025-05-05_01-57-46.pth
+SAE_new_notebook_test,2025-05-05_02-35-06,8,0.0001,0.01,10,32,2048,16384,0.03985351473093033,checkpoints/sae_2025-05-05_02-35-06.pth
+SAE_new_notebook_test,2025-05-05_02-46-53,8,0.0001,0.01,10,8,2304,18432,0.0016078251507133246,checkpoints/sae_2025-05-05_02-46-53.pth
