@@ -8,7 +8,7 @@ from datetime import datetime
 # === Configuration ===
 BASE_FOLDER = "/home/henrytsai/ishan/sae_trials/collage/100_episodes"
 FINETUNED_FOLDER = "/home/henrytsai/ishan/sae_trials/collage/100_episodes_finetuned"
-VOTE_LOG = "/home/henrytsai/henry/votes.csv"
+VOTE_LOG = "/home/henrytsai/henry/feature_votes.csv"
 
 # === Load image names ===
 base_images = sorted(os.listdir(BASE_FOLDER))
