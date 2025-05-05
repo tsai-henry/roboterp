@@ -1,5 +1,6 @@
 run_name,timestamp,hidden_multiplier,learning_rate,sparsity_weight,n_epochs,batch_size,d_in,d_hidden,final_loss,model_path
-SAE_new_notebook_test,2025-05-05_01-03-05,8,0.0001,0.01,10,32,2048,16384,0.03944502800703049,checkpoints/sae_2025-05-05_01-03-05.pth
-SAE_new_notebook_test,2025-05-05_01-57-46,8,0.0001,0.01,10,32,2048,16384,0.03950553640723228,checkpoints/sae_2025-05-05_01-57-46.pth
-SAE_new_notebook_test,2025-05-05_02-35-06,8,0.0001,0.01,10,32,2048,16384,0.03985351473093033,checkpoints/sae_2025-05-05_02-35-06.pth
-SAE_new_notebook_test,2025-05-05_02-46-53,8,0.0001,0.01,10,8,2304,18432,0.0016078251507133246,checkpoints/sae_2025-05-05_02-46-53.pth
+SAE_new_notebook_test,2025-05-05_04-20-02,8,0.0001,0.01,10,8,2304,18432,0.001602757074870169,checkpoints/sae_2025-05-05_04-20-02.pth,sae_2025-05-05_04-20-02.pth,base,multi_modal_projector.linear,100_episodes_4_frames_each.pt
+SAE_new_notebook_test,2025-05-05_04-52-53,8,0.0001,0.01,10,8,2304,18432,0.0014757993584498764,checkpoints/sae_2025-05-05_04-52-53.pth,sae_2025-05-05_04-52-53.pth,finetuned_single_224,multi_modal_projector.linear,100_episodes_4_frames_each.pt
+SAE_new_notebook_test,2025-05-05_05-09-05,8,0.0001,0.01,10,8,2304,18432,0.00021618591621518134,checkpoints/sae_2025-05-05_05-09-05.pth,sae_2025-05-05_05-09-05.pth,small_base,language_model.model.layers.12.mlp,100_episodes_4_frames_each.pt
+SAE_new_notebook_test,2025-05-05_05-44-12,8,0.0001,0.01,10,8,2304,18432,9.77590745605994e-05,checkpoints/sae_2025-05-05_05-44-12.pth,sae_2025-05-05_05-44-12.pth,small_base,language_model.model.layers.12.mlp,100_episodes_4_frames_each.pt
+SAE_new_notebook_test,2025-05-05_05-55-45,8,0.0001,0.01,10,8,2304,18432,9.715207692352123e-05,checkpoints/sae_2025-05-05_05-55-45.pth,sae_2025-05-05_05-55-45.pth,finetuned_single_224,language_model.model.layers.12.mlp,100_episodes_4_frames_each.pt
