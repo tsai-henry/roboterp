@@ -8,7 +8,7 @@ RoboTerp: Interpreting Vision Language Models for Robotic Control
 
 We examine how fine-tuning Vision Language Models (VLMs) on robot trajectories changes their latent representations of the real world. Specifically, we focus on **PaliGemma 2 3B** and use **Sparse Autoencoders (SAEs)** to analyze feature distributions before and after fine-tuning on the **DROID** robot manipulation dataset.
 
-## 📂 Repository Structure
+## Structure
 
 The codebase is organized into three main stages: Baseline Analysis, Fine-Tuning, and Post-Fine-Tuning Analysis.
 
