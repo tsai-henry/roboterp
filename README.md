@@ -1,4 +1,4 @@
-[<h1 align="center">
+<h1 align="center">
 RoboTerp: Interpreting Vision Language Models for Robotic Control
 </h1>
 
